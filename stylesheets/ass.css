@@ -1,0 +1,14 @@
+table{
+		position:relative;
+		width:400px;
+		height:400px;
+		border:1px;
+		text-align:center;
+	}
+	td{
+		text-align:center;
+		border:8px solid pink;
+		height:25%;
+		width:25%;
+		padding:0px;
+	}
